@@ -1,0 +1,12 @@
+.logout_btn {
+    color: grey;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.table-header {
+    font-weight: 600;
+    font-size: 24px;
+    padding: 8px 16px;
+    background-color: whitesmoke;
+}
